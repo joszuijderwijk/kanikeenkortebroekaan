@@ -1,8 +1,8 @@
-
-<p class="callout danger">Het ziet ernaar uit dat kanikeenkortebroekaan.nl down is.</p>
-
 # kanikeenkortebroekaan.nl voor Rainmeter
-Een Rainmeter skin voor [kanikeenkortebroekaan.nl](kanikeenkortebroekaan.nl)
+
+> :x: Het ziet ernaar uit dat kanikeenkortebroekaan.nl down is.
+
+Een Rainmeter skin voor [kanikeenkortebroekaan.nl](https://kanikeenkortebroekaan.nl)
 
 ### Variatie 1
 ![Geen korte broek](https://i.imgur.com/W03ODn6.png)
