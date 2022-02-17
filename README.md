@@ -1,4 +1,6 @@
 
+<p class="callout danger">Het ziet ernaar uit dat kanikeenkortebroekaan.nl down is.</p>
+
 # kanikeenkortebroekaan.nl voor Rainmeter
 Een Rainmeter skin voor [kanikeenkortebroekaan.nl](kanikeenkortebroekaan.nl)
 
