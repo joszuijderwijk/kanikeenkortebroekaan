@@ -1,7 +1,5 @@
 # kanikeenkortebroekaan.nl voor Rainmeter
 
-> :x: Het ziet ernaar uit dat kanikeenkortebroekaan.nl down is.
-
 Een Rainmeter skin voor [kanikeenkortebroekaan.nl](https://kanikeenkortebroekaan.nl)
 
 ### Variatie 1
