@@ -14,4 +14,4 @@ Een Rainmeter skin voor [kanikeenkortebroekaan.nl](https://kanikeenkortebroekaan
 ![Geen korte broek](https://i.imgur.com/ZzkjScu.png)
 ![Wel een korte broek](https://i.imgur.com/uTh5uQp.png)
 
-Meer informatie: [blogpost](joszuijderwijk.nl/kortebroek)
+Meer informatie: [blogpost](https://joszuijderwijk.nl/blog/kortebroek)
